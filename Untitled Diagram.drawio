@@ -1,61 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T15:48:11.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Qt05lT9DohfyVMZyXFva" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T15:56:45.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cG-3LfmWIJuA4WJGJYPk" version="24.6.4" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="464.4" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" target="69ecfefc5c41e42c-2" edge="1">
+        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-37" target="69ecfefc5c41e42c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-13" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-2" target="Iyt7lewTMl7ZF7CY6FgI-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="274.48979591836724" y="740" as="sourcePoint" />
-            <mxPoint x="375.51020408163254" y="575" as="targetPoint" />
+            <mxPoint x="211.48979591836724" y="742.5" as="sourcePoint" />
+            <mxPoint x="312.51020408163254" y="577.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-14" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-3" target="Iyt7lewTMl7ZF7CY6FgI-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="424.89361702127667" y="730" as="sourcePoint" />
-            <mxPoint x="405.10638297872333" y="575" as="targetPoint" />
+            <mxPoint x="361.89361702127667" y="732.5" as="sourcePoint" />
+            <mxPoint x="342.10638297872333" y="577.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-15" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-4" target="Iyt7lewTMl7ZF7CY6FgI-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="620" y="708.4615384615383" as="sourcePoint" />
-            <mxPoint x="440" y="566.5384615384614" as="targetPoint" />
+            <mxPoint x="557" y="710.9615384615383" as="sourcePoint" />
+            <mxPoint x="377" y="569.0384615384614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-16" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-5" target="Iyt7lewTMl7ZF7CY6FgI-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="690" y="609.6969696969697" as="sourcePoint" />
-            <mxPoint x="440" y="545.3030303030303" as="targetPoint" />
+            <mxPoint x="627" y="612.1969696969697" as="sourcePoint" />
+            <mxPoint x="377" y="547.8030303030303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="367" y="540" width="67.4" height="32" as="geometry" />
+          <mxGeometry x="304" y="542.5" width="67.4" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-2" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;defState=closed" vertex="1" parent="1">
-          <mxGeometry x="160" y="425" width="100" height="60" as="geometry" />
+          <mxGeometry x="97" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-3" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;defState=closed" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="100" height="60" as="geometry" />
+          <mxGeometry x="97" y="574.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-4" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;defState=closed" vertex="1" parent="1">
-          <mxGeometry x="250" y="680" width="100" height="60" as="geometry" />
+          <mxGeometry x="197" y="700" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-5" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;defState=closed" vertex="1" parent="1">
-          <mxGeometry x="410" y="680" width="100" height="60" as="geometry" />
+          <mxGeometry x="371.4" y="720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="477" y="320" width="67.4" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-7" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.app_store_iphone;fillColor=#75797C;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="590" y="220" width="61.2" height="20" as="geometry" />
+          <mxGeometry x="630" y="190" width="61.2" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-8" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-7" target="Iyt7lewTMl7ZF7CY6FgI-6">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/weather-color-2/500/weather-32-128.png" vertex="1" parent="1">
-          <mxGeometry x="300" y="166" width="104" height="104" as="geometry" />
+          <mxGeometry x="260" y="130" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-10" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-9" target="Iyt7lewTMl7ZF7CY6FgI-6">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -73,24 +73,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="587" y="490" width="67.4" height="32" as="geometry" />
+          <mxGeometry x="677" y="500" width="67.4" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-12" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-20" target="Iyt7lewTMl7ZF7CY6FgI-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="810" y="640" as="sourcePoint" />
-            <mxPoint x="624" y="390" as="targetPoint" />
+            <mxPoint x="900" y="650" as="sourcePoint" />
+            <mxPoint x="714" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-14" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-19" target="Iyt7lewTMl7ZF7CY6FgI-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="890" y="520" as="sourcePoint" />
-            <mxPoint x="720" y="340" as="targetPoint" />
+            <mxPoint x="980" y="530" as="sourcePoint" />
+            <mxPoint x="810" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-15" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-18" target="Iyt7lewTMl7ZF7CY6FgI-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="870" y="384.68" as="sourcePoint" />
-            <mxPoint x="654.4000000000001" y="484.99929402326524" as="targetPoint" />
+            <mxPoint x="960" y="416.5567117585849" as="sourcePoint" />
+            <mxPoint x="744.4000000000001" y="494.99929402326524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-16" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-21" target="Iyt7lewTMl7ZF7CY6FgI-11">
@@ -99,26 +99,17 @@
             <mxPoint x="830" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-17" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="870" y="352" width="78" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="870" y="352" width="78" height="78" as="geometry" />
+          <mxGeometry x="970" y="360" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="880" y="482" width="78" height="78" as="geometry" />
+          <mxGeometry x="970" y="492" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="802" y="602" width="78" height="78" as="geometry" />
+          <mxGeometry x="892" y="612" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="640" y="690" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-22" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="870" y="407" as="sourcePoint" />
-            <mxPoint x="654" y="493" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="730" y="700" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-23" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-6" target="Iyt7lewTMl7ZF7CY6FgI-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -131,6 +122,48 @@
             <mxPoint x="693" y="370" as="sourcePoint" />
             <mxPoint x="477" y="456" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-25" value="Moisture/ Temp Sensor Zone 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="924" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-26" value="Moisture/ Temp Sensor Zone 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="934" y="450" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-27" value="Moisture/ Temp Sensor Zone 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="856" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-28" value="Moisture/ Temp Sensor Zone 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="670" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-29" value="Ball V&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Lora%2FESP32%22%20style%3D%22text%3BstrokeColor%3Dnone%3Balign%3Dcenter%3BfillColor%3Dnone%3Bhtml%3D1%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22520%22%20y%3D%22522%22%20width%3D%22140%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3EV&lt;/span&gt;alve Zone 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-30" value="Ball Valve Zone 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117" y="543.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-31" value="Ball Valve Zone 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-32" value="Ball Valve Zone 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411.4" y="692.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-33" value="Lora/ESP32 Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="544.4" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-34" value="Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="532" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-35" value="Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337" y="562.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-36" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-6" target="Iyt7lewTMl7ZF7CY6FgI-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="310" as="sourcePoint" />
+            <mxPoint x="506" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
+          <mxGeometry x="481.9" y="230" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

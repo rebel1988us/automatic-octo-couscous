@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T15:56:45.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cG-3LfmWIJuA4WJGJYPk" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T18:31:06.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="y5Xts96ycHs5i4WNzEAB" version="24.6.4" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,13 +148,13 @@
           <mxGeometry x="411.4" y="692.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-33" value="Lora/ESP32 Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="544.4" y="320" width="140" height="30" as="geometry" />
+          <mxGeometry x="551.1999999999999" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-34" value="Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="532" width="140" height="30" as="geometry" />
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-34" value="&amp;nbsp;Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-35" value="Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337" y="562.5" width="140" height="30" as="geometry" />
+        <mxCell id="Iyt7lewTMl7ZF7CY6FgI-35" value="Master Controller Lora/ESP32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="570" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iyt7lewTMl7ZF7CY6FgI-36" value="" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" edge="1" parent="1" source="Iyt7lewTMl7ZF7CY6FgI-6" target="Iyt7lewTMl7ZF7CY6FgI-37">
           <mxGeometry relative="1" as="geometry">
